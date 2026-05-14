@@ -1,0 +1,26 @@
+{
+  "format": 1,
+  "assets_base": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/",
+  "pack": {
+    "mc_version": "1.21.1",
+    "loader": "NeoForge",
+    "loader_version": "21.1.180",
+    "build": "1.0.0"
+  },
+  "server": {
+    "address": "aerocreate.mcsh.io",
+    "season": "Сезон I",
+    "started": "Май 2026"
+  },
+  "about": {
+    "description": "Проверка лол :3",
+    "creator": {
+      "nick": "AsterDRed",
+      "role": "Создатель",
+      "tag": "LEAD",
+      "avatar": "data/avatars/AsterDRed.jpg"
+    },
+    "team": [],
+    "players": []
+  }
+}
