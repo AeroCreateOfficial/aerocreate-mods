@@ -20,7 +20,20 @@
       "tag": "LEAD",
       "avatar": "data/avatars/AsterDRed.jpg"
     },
-    "team": [],
+    "team": [
+      {
+        "nick": "phatmaster97",
+        "role": "Разработчик",
+        "tag": "DEV",
+        "avatar": "data/avatars/phatmaster97.jpg"
+      },
+      {
+        "nick": "ilia2010main",
+        "role": "Админ",
+        "tag": "OPS",
+        "avatar": "data/avatars/ilia2010main.jpg"
+      }
+    ],
     "players": []
   }
 }
