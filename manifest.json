@@ -256,6 +256,11 @@
       "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
     },
     {
+      "file": "chunkloaders-1.2.8-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/chunkloaders-1.2.8-neoforge-mc1.21.jar",
+      "hash": "0b7fcb40382df30119a39e0d8ccf372d50d10d84b6a6d9465728f65dffef9cad"
+    },
+    {
       "file": "cloth-config-15.0.140-neoforge.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/cloth-config-15.0.140-neoforge.jar",
       "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
