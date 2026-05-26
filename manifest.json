@@ -251,11 +251,6 @@
       "hash": "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
     },
     {
-      "file": "chipped-neoforge-1.21.1-4.0.2.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/chipped-neoforge-1.21.1-4.0.2.jar",
-      "hash": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
-    },
-    {
       "file": "cloth-config-15.0.140-neoforge.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/cloth-config-15.0.140-neoforge.jar",
       "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
@@ -541,11 +536,6 @@
       "hash": "61a549fc31c029427a7385fd43cf3fa8173c78714457046809d2da25938d9932"
     },
     {
-      "file": "immersive_furniture-neoforge-0.1.3+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/immersive_furniture-neoforge-0.1.3+1.21.1.jar",
-      "hash": "9f87b0129e22bd2bed3ff5272bc4c8cf9f8a6e27b1f8f84b50953169103cede9"
-    },
-    {
       "file": "interiors-1.21.1-neoforge-0.6.1.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/interiors-1.21.1-neoforge-0.6.1.jar",
       "hash": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
@@ -606,11 +596,6 @@
       "hash": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
     },
     {
-      "file": "lootr-neoforge-1.21.1-1.11.37.120.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
-      "hash": "f7b80bf86e02a1107fb1600aa6a02608ebcddb140b123a42d5ee199e5db65c8d"
-    },
-    {
       "file": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
       "hash": "b27cd68a7673874b0f6d765bdef2a022666cc07ca0e5057209a16d1a535da9e4"
@@ -624,11 +609,6 @@
       "file": "midnightlib-neoforge-1.9.3+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/midnightlib-neoforge-1.9.3+1.21.1.jar",
       "hash": "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
-    },
-    {
-      "file": "minopp-1.4.0+1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/minopp-1.4.0+1.21.1+neoforge.jar",
-      "hash": "c4c9a8b6216a31169c663d9f7429711dae28f345356012dc71fa1f850427d2be"
     },
     {
       "file": "modernfix-neoforge-5.27.5+mc1.21.1.jar",
@@ -829,11 +809,6 @@
       "file": "underground_village-neoforge-1.21.1-1.5.7.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/underground_village-neoforge-1.21.1-1.5.7.jar",
       "hash": "2cbba6df207d445dce78535742e818d4433870b51d0a073d83819b097878f62a"
-    },
-    {
-      "file": "unusual_furniture-1.1.2c-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/unusual_furniture-1.1.2c-neoforge-1.21.1.jar",
-      "hash": "0a2e4ffb7eb8137dbd8a95b51841cc5aa8d8e922b3e2c2ffaf0b5eae265b0e71"
     },
     {
       "file": "vista-1.21-3.1.2-neoforge.jar",
