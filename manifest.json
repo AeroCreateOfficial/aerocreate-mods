@@ -331,11 +331,6 @@
       "hash": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"
     },
     {
-      "file": "create-renewable-egapples-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create-renewable-egapples-1.0.1.jar",
-      "hash": "fbac8a1fcbc6349183f2404033c2705d4e40d985dde0ef7fe9a95ba113d95a95"
-    },
-    {
       "file": "create-renewable-netherite-2.0.1.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create-renewable-netherite-2.0.1.jar",
       "hash": "2539b4ee086ac448e00217eb693dca35635d6c5f0e587f79b16bf24ea6a1a2d0"
@@ -374,11 +369,6 @@
       "file": "create_ltab-3.9.2.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create_ltab-3.9.2.jar",
       "hash": "93ceae221dbfeaa284c5c0db571ae5696198068376ff3b9b3377f952cb5bdc0e"
-    },
-    {
-      "file": "create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
-      "hash": "a7e90ad4810774a9e9378276d2a3f7476678e9b0885fe3713e0d39ce7843a034"
     },
     {
       "file": "create_oxidized-0.1.3.jar",
