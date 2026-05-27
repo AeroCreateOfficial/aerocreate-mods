@@ -40,6 +40,11 @@
         "role": "Игрок",
         "avatar": "data/avatars/dialvi.jpg"
       }
-    ]
+    ],
+    "socials": {
+      "website":  "aerocreate.net",
+      "discord":  "https://discord.gg/tGhHnyejtx",
+      "telegram": "https://t.me/+7tMD7xdsH_YxMTVi"
+    }
   }
 }
