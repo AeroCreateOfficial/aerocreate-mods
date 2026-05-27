@@ -28,12 +28,18 @@
         "avatar": "data/avatars/phatmaster97.jpg"
       },
       {
-        "nick": "ilia2010main",
-        "role": "Админ",
-        "tag": "OPS",
-        "avatar": "data/avatars/ilia2010main.jpg"
+        "nick": "Almar_B_V_D",
+        "role": "Тех. Администратор",
+        "tag": "TECH",
+        "avatar": "data/avatars/almarbvd.jpg"
       }
     ],
-    "players": []
+    "players": [
+      {
+        "nick": "Di_Alvi",
+        "role": "Игрок",
+        "avatar": "data/avatars/dialvi.jpg"
+      }
+    ]
   }
 }
