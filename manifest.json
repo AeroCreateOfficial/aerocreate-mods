@@ -361,11 +361,6 @@
       "hash": "1882e3102771ed2db4ba7f62c0b500d7a40e4d2c1823700c2fa55a75b77359f9"
     },
     {
-      "file": "create_jetpack-forge-5.1.2.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create_jetpack-forge-5.1.2.jar",
-      "hash": "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"
-    },
-    {
       "file": "create_ltab-3.9.2.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create_ltab-3.9.2.jar",
       "hash": "93ceae221dbfeaa284c5c0db571ae5696198068376ff3b9b3377f952cb5bdc0e"
@@ -379,11 +374,6 @@
       "file": "create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
       "hash": "db9c08c425ba8c739fb41800b1568ab29e9d55ef461b4b2961d7bc7227e9e38c"
-    },
-    {
-      "file": "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/AeroCreateOfficial/aerocreate-mods/main/mods/create_structures_arise-174.47.46%20Release-neoforge-1.21.1.jar",
-      "hash": "09a8d872fcb4ffc10adcbe1e1b9c45886fd3e06a14b60eb275dc695ca43a8e3f"
     },
     {
       "file": "create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
